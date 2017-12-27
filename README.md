@@ -21,7 +21,7 @@ Installing
 Add the dependency to your project:
 
 ```bash
-composer require mtdowling/cron-expression
+composer require a3020/cron-expression
 ```
 
 Usage
@@ -68,6 +68,6 @@ A CRON expression is a string representing the schedule for a particular command
 Requirements
 ============
 
-- PHP 5.3+
+- PHP 5.6+
 - PHPUnit is required to run the unit tests
 - Composer is required to run the unit tests
